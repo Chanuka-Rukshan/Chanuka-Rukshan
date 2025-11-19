@@ -31,18 +31,7 @@
 
 ---
 
-<div align="center">
 
-### 📈 My GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chanuka-Rukshan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117" height="160" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanuka-Rukshan&theme=tokyonight&hide_border=false&bg_color=0D1117" height="160" alt="streak graph" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanuka-Rukshan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117" height="160" alt="languages graph" />
-
-</div>
 
 ---
 
